@@ -3,7 +3,7 @@
 Personal developer portfolio built with **Next.js** and **Tailwind CSS**.
 
 ## 🚀 Live Site
-[jounnaqvi.vercel.app](https://jounnaqvi.vercel.app)
+https://portfolio-jaun.vercel.app/
 
 ## 🛠️ Built With
 - Next.js (App Router)
